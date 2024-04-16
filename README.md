@@ -27,10 +27,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-switi&theme=dark" alt="mohammed-switi" />
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-switi&show_icons=true&locale=en&theme=dark" alt="mohammed-switi" />
-  
-</p>
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-switi&show_icons=true&locale=en&layout=donut&theme=dark" alt="mohammed-switi" /></p>
 
