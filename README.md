@@ -31,3 +31,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-switi&show_icons=true&locale=en&layout=donut&theme=dark" alt="mohammed-switi" /></p>
 
+
+
+<p align=center>
+  <img  src="https://camo.githubusercontent.com/0aa7a69beed6e72dfb8c83ac3f5e73c298a06e328575b37d1bbfd72e1a486add/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572" alt="GitHub Readme Stats" /> 
+</p>
