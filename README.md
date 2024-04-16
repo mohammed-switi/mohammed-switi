@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammed Sowaity</h1>
+<p align=center>
+  <img  src="https://camo.githubusercontent.com/d51030d2ab20f334aa229c4b588c4edc06269c1f78c64dbb834004415821f073/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3238302673656374696f6e3d68656164657226746578743d4869253230746865726525323025463025394625393125384226666f6e7453697a653d3930" alt="GitHub Readme Stats" /> 
+</p>
+
+<h1 align="center"> I'm Mohammed Sowaity</h1>
 <h3 align="center"> A Passionate Software Engineer's Journey from Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-switi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-switi" /> </p>
 
 # About Me 📌
 - 💻 I'm currently diving into Full-Stack Web Development  
@@ -25,5 +28,5 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-switi&show_icons=true&locale=en&theme=dark" alt="mohammed-switi" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-switi&show_icons=true&locale=en&layout=compact&theme=dark" alt="mohammed-switi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-switi&show_icons=true&locale=en&layout=donut&theme=dark" alt="mohammed-switi" /></p>
 
