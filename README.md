@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> I'm Mohammed Sowaity</h1>
-<h3 align="center"> A Passionate Software Engineer's Journey from Palestine</h3>
+<h3 align="center"> A Passionate Software Engineer</h3>
 
 
 # About Me 📌
